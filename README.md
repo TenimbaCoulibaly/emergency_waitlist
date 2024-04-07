@@ -49,11 +49,13 @@ En temps qu'administrateur, j'ai accès:
 
 ![patientboard](patientboard.png)
 ![patientboard2](patientboard2.png)
-<li>Edit le patient Board, par exemple, ci-dessous j'ajoute un nouveau patient, je met à jour la position d'un patient</li></br>
+<li>Edit le patient Board, par exemple, ci-dessous j'ajoute un nouveau patient, je met à jour la position d'un patient et je supprime égalemet un patient</li></br>
 
 ![editpatientboard](editpatientboard.png)
 ![adminaddpatient](adminaddpatient.png)
 ![adminupdateposition](adminupdateposition.png)
+![adminupdate1](adminupdate1.png)
+![deletepatient](deletepatient.png)
 <li>Au Contact Page</li></br>
 
 ![contactpage](contactpage.png)
