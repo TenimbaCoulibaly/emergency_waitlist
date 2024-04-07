@@ -60,6 +60,10 @@ En temps qu'admistrateur, Je peut également enregistrer, modifier et accéder �
 ![patientregister](patientregister.png)
 
 ___
-
+Les patients peuvent se connecter avec leur nom d'utilisateur et mot de passe.
+</br>
+![patientlogin](patientlogin.png)
+![patientweb](patientweb.png)
+</br>
 
 
