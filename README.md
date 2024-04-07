@@ -22,14 +22,17 @@ Les administrateurs de l'hôpital enregistrent et gèrent la liste d'attenede de
 <br/>
 
 ![2](2.png)
-
 <li>Accéder à localhost/phpMyAdmin pour verifier si la base de donnée et bien en place</li><br/>
-
 
 ![3](3.png)
 <li>Dans le terminal, accéder au path du fichier Mediqueue</li>
 <li>Run npm install</li>
-<li>Run npm start</li>
-<li></li>
+<li>Run npm start</li></br>
+
+![4](4.JPG)
+</br>
+<li>La page Web s'ouvrira comme ci-dessous</li></br>
+
+![5](5.png)
 <li></li>
 </a>
