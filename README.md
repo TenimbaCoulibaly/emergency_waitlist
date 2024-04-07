@@ -87,6 +87,14 @@ Les patients peuvent:
 <li>Accéder à d'autees fonctionnalités</li></br>
 
 ![patientaccess](patientaccess.png)
-<li>Créer un compte et de connecter ensuite avec leur informations</li></br>
+<li>Créer un compte et se connecter ensuite avec leur informations</li></br>
 
 ![patientcreateaccount](patientcreateaccount.png)
+</br>
+</br>
+
+___
+
+**Code Backend & Frontend**:
+___
+
