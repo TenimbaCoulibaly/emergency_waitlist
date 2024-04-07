@@ -35,5 +35,7 @@ ___
 <li>La page Web s'ouvrira comme ci-dessous</li></br>
 
 ![5](5.png)
-<li></li>
+<li>Je me connecte ensuite à l'aide de mon nom d'utilisateur et mon mot de passe</li></br>
+
+![adminpage](adminpage.png)
 </a>
