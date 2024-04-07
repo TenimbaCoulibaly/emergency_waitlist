@@ -56,6 +56,11 @@ En temps qu'administrateur, j'ai accès:
 ![adminupdateposition](adminupdateposition.png)
 ![adminupdate1](adminupdate1.png)
 ![deletepatient](deletepatient.png)
+</br>
+Le nouveau Patient Board sera donc comme suit:
+![adminnewpatientboard](adminnewpatientboard.png)
+
+</br>
 <li>Au Contact Page</li></br>
 
 ![contactpage](contactpage.png)
