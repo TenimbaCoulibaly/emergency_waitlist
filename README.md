@@ -98,9 +98,18 @@ ___
 **Code Backend & Frontend**:
 ___
 Les images utilisées setrouvent dans Mediqueue/src/assets
-L'implementation des pages en JavaScript dans le  Mediqueue/src/pages
-L'implementation des Databases dasn le: Xampp/htdocs/hospital-triage-services/database
+L'implementation des pages en JavaScript dans le  Mediqueue/src/pages.
+</br>
+</br>
+L'implementation des Databases dasn le: Xampp/htdocs/hospital-triage-services/database.
+</br>
+</br>
 Vous pouvez également accéder à d'autres fichier en explorant les fichiers Mediqueue et hospital-triage-services.
+</br>
+</br>
 Le fonst utilisé est: font-family: "Marcellus";
 Les couleurs sont: --primary-color rgb(103, 212, 205) qui représente; --text-color-2 qui représente #fff. Vous pouves accédez à toutes les autres coulurs dans le Mediqueue/src/index.css.
+
+___
+___**Merci.**___
 
