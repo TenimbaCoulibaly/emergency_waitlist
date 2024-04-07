@@ -39,3 +39,27 @@ ___
 
 ![adminpage](adminpage.png)
 </a>
+___
+
+En temps qu'administrateur, j'ai accès:
+<li>Au Injury List</li></br>
+
+![injurylist](injurylist.png)
+<li>Au Patient Board</li></br>
+
+![patientboard](patientboard.png)
+<li>Au Contact Page</li></br>
+
+![contactpage](contactpage.png)
+<li>Et aussi à d'autres fonctionnalités</li></br>
+
+![adminaccess](adminaccess.png)
+</br>
+En temps qu'admistrateur, Je peut également enregistrer, modifier et accéder à toutes les données des patients dans ma base de donnée:
+
+![patientregister](patientregister.png)
+
+___
+
+
+
