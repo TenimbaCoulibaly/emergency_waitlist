@@ -13,12 +13,20 @@ Les administrateurs de l'hôpital enregistrent et gèrent la liste d'attenede de
 
 <a>
 <li>Télechargez Xampp, Node.js/npm</li>
+<li>Déplacer le folder hospital-triage-services dans le folder htdocs de Xampp</li>
+<br/>
 
   
-<li>Déplacer le folder hospital-triage-services dans le folder htdocs de Xampp</li>
+![1](1.jpg)
 <li>Ouvrir Xampp et Start Apache & MySQL, des bouttons vers devraient aparaitre à coté de MySQL Database et Apache Web Server.</li>
-<li>Accéder à localhost/phpMyAdmin pour verifier si la base de donnée et bien en place</li>
+<br/>
 
+![2](2.png)
+
+<li>Accéder à localhost/phpMyAdmin pour verifier si la base de donnée et bien en place</li><br/>
+
+
+![3](3.png)
 <li>Dans le terminal, accéder au path du fichier Mediqueue</li>
 <li>Run npm install</li>
 <li>Run npm start</li>
