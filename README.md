@@ -67,6 +67,13 @@ Les patients peuvent se connecter avec leur nom d'utilisateur et mot de passe.
 ![patientweb](patientweb.png)
 </br>
 </br>
+Les patients peuvent:
+<li>Accéder au Patient Details</li></br>
 
+![patientdetails](patientdetails.png)
+<li>Accéder à d'autees fonctionnalités</li></br>
 
+![patientaccess](patientaccess.png)
+<li>Créer un compte et de connecter ensuite avec leur informations</li></br>
 
+![patientcreateaccount](patientcreateaccount.png)
